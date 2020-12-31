@@ -1,9 +1,10 @@
 ---
 title: "Data Journalism"
-layout: collection
+layout: single
 permalink: /data-journalism/
-collection: portfolio
-entries_layout: grid
-classes: wide
 author_profile: true
 ---
+
+# Stories
+
+# Visualizations and apps
