@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 # Stories
-[!image](/assets/images/wm_profile_pic.png)
+
+<figure>
+	<a href="/assets/images/wm_site_re_prices_map_screenshot.png"><img src="/assets/images/wm_site_re_prices_map_screenshot.png"></a>
+</figure>
 
 # Visualizations and apps
