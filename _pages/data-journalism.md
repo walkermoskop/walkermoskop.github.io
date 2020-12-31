@@ -6,5 +6,6 @@ author_profile: true
 ---
 
 # Stories
+[!image](/assets/images/wm_profile_pic.png)
 
 # Visualizations and apps
