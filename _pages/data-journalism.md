@@ -9,7 +9,7 @@ Here's a sampling of links for some of my better work from the four and a half y
 
 # Stories
 <b><a href="https://www.stltoday.com/business/local/as-subprime-auto-borrowers-default-collection-suits-pile-up-in/article_241c726e-3532-537c-b1d2-b17e166cf92d.html">As subprime auto borrowers default, collection suits pile up in St. Louis area courts (published in 2016)</a></b>
-<p>Scraped metadata for thousands of cases to build a dataset on a handful of very litigious local subprime auto lenders.</p>
+<p>Scraped data for thousands of court cases to build a dataset on a handful of very litigious local subprime auto lenders.</p>
 <figure>
 	<a href="https://www.stltoday.com/business/local/as-subprime-auto-borrowers-default-collection-suits-pile-up-in/article_241c726e-3532-537c-b1d2-b17e166cf92d.html"><img src="/assets/images/wm_site_subprime_loan.jpg"></a>
 	<figcaption>Photo by Post-Dispatch photographer David Carson.</figcaption>
@@ -48,8 +48,8 @@ Here's a sampling of links for some of my better work from the four and a half y
 
 # Visualizations and apps
 
-<b><a href="https://www.stltoday.com/business/local/st-louis-county-home-values-show-broad-increases-as-north/article_94062bbc-0497-5ea7-92fc-2a506cf57d94.htmlhttps://www.stltoday.com/business/local/st-louis-county-home-values-show-broad-increases-as-north/article_94062bbc-0497-5ea7-92fc-2a506cf57d94.html">Analysis of the change in median appraised single-family home value by St. Louis County census tracts and school districts</a></b>
-<p>Used R and JavaScript to analyze 12 years of property assessments in St. Louis County.</p>
+<b><a href="https://www.stltoday.com/business/local/st-louis-county-home-values-show-broad-increases-as-north/article_94062bbc-0497-5ea7-92fc-2a506cf57d94.htmlhttps://www.stltoday.com/business/local/st-louis-county-home-values-show-broad-increases-as-north/article_94062bbc-0497-5ea7-92fc-2a506cf57d94.html">Analysis of the change in single-family home value by St. Louis County census tracts and school districts</a></b>
+<p>Used R and JavaScript to analyze and visualize 12 years of property assessments in St. Louis County.</p>
 <figure>
 	<a href="https://www.stltoday.com/business/local/st-louis-county-home-values-show-broad-increases-as-north/article_94062bbc-0497-5ea7-92fc-2a506cf57d94.htmlhttps://www.stltoday.com/business/local/st-louis-county-home-values-show-broad-increases-as-north/article_94062bbc-0497-5ea7-92fc-2a506cf57d94.html"><img src="/assets/images/wm_site_re_prices_map_screenshot.png"></a>
 </figure>
@@ -62,7 +62,7 @@ Here's a sampling of links for some of my better work from the four and a half y
 <b><a href="https://www.stltoday.com/news/local/govt-and-politics/how-much-money-are-trump-and-clinton-raising-in-your/html_be4a4eed-1089-5934-b44b-d6f6a0387916.html">An analysis of local donors in the 2016 presidential election</a></b>
 <p>I analyzed raw federal campaign finance data to map donations to Donald Trump and Hillary Clinton by ZIP code.</p>
 <figure>
-	<a href="https://www.stltoday.com/news/local/govt-and-politics/how-much-money-are-trump-and-clinton-raising-in-your/html_be4a4eed-1089-5934-b44b-d6f6a0387916.html"><img src="assets/images/wm_site_campfi_map_screenshot.png"></a>
+	<a href="https://www.stltoday.com/news/local/govt-and-politics/how-much-money-are-trump-and-clinton-raising-in-your/html_be4a4eed-1089-5934-b44b-d6f6a0387916.html"><img src="/assets/images/wm_site_campfi_map_screenshot.png"></a>
 </figure>
 
 <b><a href="https://graphics.stltoday.com/apps/education/schools/">St. Louis school guide app</a></b>
@@ -104,11 +104,11 @@ Here's a sampling of links for some of my better work from the four and a half y
 <b><a href="https://www.stltoday.com/news/local/metro/tug-of-war-nearly-derailed-nga-s-move-to-north/article_127d2820-2b9c-5c18-8b27-c795b2f189d9.html">A timeline of how St. Louis gained control of properties from a controversial developer</a></b>
 <p>For another reporter's story about how the city fought to get control of parcels on the future site of a federal agency that employs thousands, I analyzed property records to show how parcels changed hands over time.</p>
 <figure>
-	<a href="https://www.stltoday.com/news/local/metro/tug-of-war-nearly-derailed-nga-s-move-to-north/article_127d2820-2b9c-5c18-8b27-c795b2f189d9.html"><img src="wm_site_mkee_map_screenshot.png"></a>
+	<a href="https://www.stltoday.com/news/local/metro/tug-of-war-nearly-derailed-nga-s-move-to-north/article_127d2820-2b9c-5c18-8b27-c795b2f189d9.html"><img src="/assets/images/wm_site_mkee_map_screenshot.png"></a>
 </figure>
 
 <b><a href="https://www.stltoday.com/news/local/metro/as-low-income-housing-boomed-ferguson-pushed-back/article_fcb97a3c-8bb7-54a5-9565-255301753142.html">Map: Section 8 vouchers are overwhelmingly used in poor areas</a></b>
 <p>Analyzed data from the Census and Housing and Urban Development for a story about the concentration of subsidized housing in Ferguson.</p>
 <figure>
-	<a href="https://www.stltoday.com/news/local/metro/as-low-income-housing-boomed-ferguson-pushed-back/article_fcb97a3c-8bb7-54a5-9565-255301753142.html"><img src="assets/images/wm_site_section_8.png"></a>
+	<a href="https://www.stltoday.com/news/local/metro/as-low-income-housing-boomed-ferguson-pushed-back/article_fcb97a3c-8bb7-54a5-9565-255301753142.html"><img src="/assets/images/wm_site_section_8.png"></a>
 </figure>
