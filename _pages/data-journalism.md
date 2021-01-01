@@ -14,6 +14,13 @@ Here's a sampling of some of my better work from the four and a half years I spe
 	<figcaption>Photo by Post-Dispatch photographer David Carson.</figcaption>
 </figure>
 
+
+<a href="https://www.stltoday.com/news/local/metro/as-the-economy-improves-evictions-in-st-louis-remain-stubbornly/article_55deb337-b65c-5c3a-a671-de513b6e205d.html">Evictions in St. Louis remain stubbornly high despite improving economy (published in 2016).</a>
+<figure>
+	<a href="https://www.stltoday.com/news/local/metro/as-the-economy-improves-evictions-in-st-louis-remain-stubbornly/article_55deb337-b65c-5c3a-a671-de513b6e205d.html"><img src="/assets/images/wm_site_subprime_loan.png"></a>
+	<figcaption>Photo by Post-Dispatch photographer Laurie Skrivan.</figcaption>
+</figure>
+
 # Visualizations and apps
 
 <figure>
