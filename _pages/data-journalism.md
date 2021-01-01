@@ -14,13 +14,10 @@ Here's a sampling of some of my better work from the four and a half years I spe
 	<figcaption>Photo by Post-Dispatch photographer David Carson.</figcaption>
 </figure>
 
-
 <a href="https://www.stltoday.com/news/local/metro/as-the-economy-improves-evictions-in-st-louis-remain-stubbornly/article_55deb337-b65c-5c3a-a671-de513b6e205d.html">Evictions in St. Louis remain stubbornly high despite improving economy (published in 2016)</a>
 <figure>
-	<a href="https://www.stltoday.com/news/local/metro/as-the-economy-improves-evictions-in-st-louis-remain-stubbornly/article_55deb337-b65c-5c3a-a671-de513b6e205d.html"><img src="/assets/images/wm_site_evictions_lskrivan.jpg"></a>
-	<figcaption>Photo by Post-Dispatch photographer Laurie Skrivan.</figcaption>
+	<a href="https://www.stltoday.com/news/local/metro/as-the-economy-improves-evictions-in-st-louis-remain-stubbornly/article_55deb337-b65c-5c3a-a671-de513b6e205d.html"><img src="/assets/images/wm_site_evictions_map.png"></a>
 </figure>
-
 
 <a href="https://www.stltoday.com/business/local/assets-no-more-steve-roberts-linked-to-company-that-let/article_fbf15eba-b881-5e7a-9651-6e8ccfa5bb33.html">Prominent developer linked to LLCs that abandoned hundreds of properties in north St. Louis (published in 2015)</a>
 <figure>
@@ -28,21 +25,84 @@ Here's a sampling of some of my better work from the four and a half years I spe
 	<figcaption>Photo by Post-Dispatch photographer Christian Gooden.</figcaption>
 </figure>
 
-
-<a href="hhttps://www.stltoday.com/business/local/titlemax-is-thriving-in-missouri-and-repossessing-thousands-of-cars/article_d8ea72b3-f687-5be4-8172-9d537ac94123.html">Titlemax is thriving in Missouri, and repossessing thousands of cars in the process (published in 2015)</a>
+<a href="https://www.stltoday.com/business/local/titlemax-is-thriving-in-missouri-and-repossessing-thousands-of-cars/article_d8ea72b3-f687-5be4-8172-9d537ac94123.html">Titlemax is thriving in Missouri, and repossessing thousands of cars in the process (published in 2015)</a>
 <figure>
 	<a href="https://www.stltoday.com/business/local/titlemax-is-thriving-in-missouri-and-repossessing-thousands-of-cars/article_d8ea72b3-f687-5be4-8172-9d537ac94123.html"><img src="/assets/images/wm_site_titlemax_screenshot.jpg"></a>
 </figure>
 
-
 <a href="https://www.stltoday.com/news/local/govt-and-politics/as-campaign-spending-soars-missouri-voters-contemplate-reinstating-limits/article_30188c87-1c49-51b0-8d4d-a569e66de28d.html">Without contribution limits, Missouri politicians raise far more cash from far fewer donors (published in 2016)</a>
 <figure>
-	<a href="https://www.stltoday.com/news/local/govt-and-politics/as-campaign-spending-soars-missouri-voters-contemplate-reinstating-limits/article_30188c87-1c49-51b0-8d4d-a569e66de28d.html"><img src="/assets/images/wm_site_titlemax_screenshot.jpg"></a>
+	<a href="https://www.stltoday.com/news/local/govt-and-politics/as-campaign-spending-soars-missouri-voters-contemplate-reinstating-limits/article_30188c87-1c49-51b0-8d4d-a569e66de28d.html"><img src="/assets/images/wm_site_campfi_screenshot.jpg"></a>
 </figure>
 
+<a href="https://www.stltoday.com/news/local/govt-and-politics/properties-pile-up-at-st-louis-county-tax-sales/article_8d87e7aa-6f91-563f-82d7-30caa3c806b3.html">Years into the recovery, unwanted properties are still piling up at St. Louis County tax auctions (published in 2016)</a>
+<figure>
+	<a href="https://www.stltoday.com/news/local/govt-and-politics/properties-pile-up-at-st-louis-county-tax-sales/article_8d87e7aa-6f91-563f-82d7-30caa3c806b3.html"><img src="/assets/images/wm_site_castle_pointe_screenshot.jpg"></a>
+</figure>
 
 # Visualizations and apps
 
+<b><a href="https://www.stltoday.com/business/local/st-louis-county-home-values-show-broad-increases-as-north/article_94062bbc-0497-5ea7-92fc-2a506cf57d94.htmlhttps://www.stltoday.com/business/local/st-louis-county-home-values-show-broad-increases-as-north/article_94062bbc-0497-5ea7-92fc-2a506cf57d94.html">Analysis of the change in median appraised single-family home value by St. Louis County census tracts and school districts</a></b>
+<p>Description</p>
 <figure>
-	<a href="https://www.stltoday.com/business/local/st-louis-county-home-values-show-broad-increases-as-north-county-stabilizes/article_94062bbc-0497-5ea7-92fc-2a506cf57d94.html"><img src="/assets/images/wm_site_re_prices_map_screenshot.png"></a>
+	<a href="https://www.stltoday.com/business/local/st-louis-county-home-values-show-broad-increases-as-north/article_94062bbc-0497-5ea7-92fc-2a506cf57d94.htmlhttps://www.stltoday.com/business/local/st-louis-county-home-values-show-broad-increases-as-north/article_94062bbc-0497-5ea7-92fc-2a506cf57d94.html"><img src="/assets/images/wm_site_re_prices_map_screenshot.png"></a>
+</figure>
+
+<b><a href="https://www.stltoday.com/news/local/crime-and-courts/car-break-ins-are-so-bad-they-re-part-of/article_d539cbb5-ce9b-530a-9fa0-78e3dbdcbf1b.html">Analysis of car break-ins in the City of St. Louis</a></b>
+<figure>
+	<a href="https://www.stltoday.com/news/local/crime-and-courts/car-break-ins-are-so-bad-they-re-part-of/article_d539cbb5-ce9b-530a-9fa0-78e3dbdcbf1b.html"><img src="/assets/images/wm_site_car_breakins.png"></a>
+</figure>
+
+<b><a href="https://www.stltoday.com/news/local/govt-and-politics/how-much-money-are-trump-and-clinton-raising-in-your/html_be4a4eed-1089-5934-b44b-d6f6a0387916.html">An analysis of local donors in the 2016 presidential election</a></b>
+<p>I analyzed campaign raw federal campaign finance data to map donations to Donald Trump and Hillary Clinton by ZIP code.</p>
+<figure>
+	<a href="https://www.stltoday.com/news/local/govt-and-politics/how-much-money-are-trump-and-clinton-raising-in-your/html_be4a4eed-1089-5934-b44b-d6f6a0387916.html"><img src="assets/images/wm_site_campfi_map_screenshot.png"></a>
+</figure>
+
+<b><a href="https://graphics.stltoday.com/apps/education/schools/">St. Louis school guide app</a></b>
+<p>I did most of the back end work on the original version of this Django app, built with Post-Dispatch developer <a href="https://twitter.com/Kirkman">Josh Renaud</a> and former developer <a href="https://twitter.com/onlyandrewn">Andrew Nguyen.</a></p>
+<figure>
+	<a href="https://graphics.stltoday.com/apps/education/schools/"><img src="/assets/images/wm_site_school_app_screenshot.png"></a>
+</figure>
+
+<b><a href="https://graphics.stltoday.com/apps/payrolls/salaries/">The Post-Dispatch government salaries app</a></b>
+<p>I led the development the original version of this Django app, which involves gathering and combining data from dozens of cities and agencies. I worked on this with <a href="https://twitter.com/onlyandrewn">Andrew Nguyen</a> and <a href="https://twitter.com/Kirkman">Josh Renaud</a>.</p>
+<figure>
+	<a href="https://graphics.stltoday.com/apps/payrolls/salaries/"><img src="/assets/images/wm_site_salary_app_screenshot.png"></a>
+</figure>
+
+<b><a href="https://www.stltoday.com/news/multimedia/special/st-louis-area-schools-how-poverty-relates-to-performance/html_48fd45ba-a094-55c0-ac2e-d46a78165a05.html">How poverty relates to performance in St. Louis schools</a></b>
+<p>An analysis of student test score data from the Missouri Department of Elementary and Secondary Education.</p>
+<figure>
+	<a href="https://www.stltoday.com/news/multimedia/special/st-louis-area-schools-how-poverty-relates-to-performance/html_48fd45ba-a094-55c0-ac2e-d46a78165a05.html"><img src="/assets/images/wm_site_map_score_sreenshot.png"></a>
+</figure>
+
+<b><a href="https://www.stltoday.com/news/local/map-how-the-mls-stadium-vote-failed/article_2dc4be87-9bfb-5d62-917e-037bcdeb5ce5.html">How the MLS stadium vote failed</a></b>
+<p>I mapped out ward-level election results from the St. Louis Board of Election Commissioners after voters rejected financing a soccer stadium (St. Louis has since started building a stadium, albeit not one that is publicly financed).</p>
+<figure>
+	<a href="https://www.stltoday.com/news/local/map-how-the-mls-stadium-vote-failed/article_2dc4be87-9bfb-5d62-917e-037bcdeb5ce5.html"><img src="/assets/images/wm_site_mls_vote_screenshot.png"></a>
+</figure>
+
+<b><a href="https://graphics.stltoday.com/apps/crime/">The Post-Dispatch crime app</a></b>
+<p>I wrote the Python script that downloaded, processed and analyzed the St. Louis city and county raw crime data, which was then visualized by <a href="https://twitter.com/Kirkman">Josh Renaud.</a></p>
+<figure>
+	<a href="https://graphics.stltoday.com/apps/crime/"><img src="/assets/images/wm_site_crime_app_screenshot.png"></a>
+</figure>
+
+<b><a href="https://graphics.stltoday.com/apps/campaign-finance/missouri/">The Post-Dispatch campaign finance app</a></b>
+<p>Although this was published after I left the Post-Dispatch, I conceived the idea for this app and contributed heavily to its initial development. This was built using Django and provides searchable political donation data for candidates and officeholders for statewide, Congressional and state legislative offices in Missouri. It was completed by current Post-Dispatch developer <a href="https://twitter.com/Kirkman">Josh Renaud</a> and former developer <a href="https://twitter.com/onlyandrewn">Andrew Nguyen.</a></p>
+<figure>
+	<a href="https://graphics.stltoday.com/apps/campaign-finance/missouri/"><img src="/assets/images/wm_site_campfi_app_screenshot.png"></a>
+</figure>
+
+<a href="https://www.stltoday.com/news/local/metro/tug-of-war-nearly-derailed-nga-s-move-to-north/article_127d2820-2b9c-5c18-8b27-c795b2f189d9.html">A timeline of how St. Louis gained control of properties from a controversial developer</a>
+<p>For another reporter's story about how the city fought to get control of parcels on the future site of a federal agency that employs thousands, I analyzed property records to show how parcels changed hands over time.</p>
+<figure>
+	<a href="https://www.stltoday.com/news/local/metro/tug-of-war-nearly-derailed-nga-s-move-to-north/article_127d2820-2b9c-5c18-8b27-c795b2f189d9.html"><img src=""></a>
+</figure>
+
+<b><a href="https://www.stltoday.com/news/local/metro/as-low-income-housing-boomed-ferguson-pushed-back/article_fcb97a3c-8bb7-54a5-9565-255301753142.html">Map: Section 8 vouchers are overwhelmingly used in poor areas</a></b>
+<p>Analyzed data from the Census and Housing and Urban Development for a story about the concentration of subsidized housing in Ferguson.</p>
+<figure>
+	<a href="https://www.stltoday.com/news/local/metro/as-low-income-housing-boomed-ferguson-pushed-back/article_fcb97a3c-8bb7-54a5-9565-255301753142.html"><img src="assets/images/wm_site_section_8.png"></a>
 </figure>
