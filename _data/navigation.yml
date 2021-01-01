@@ -3,7 +3,7 @@ main:
   #   url: /posts/
   - title: "Data Journalism"
     url: /data-journalism/
-  - title: "Tags"
-    url: /tags/
+  # - title: "Tags"
+  #   url: /tags/
   - title: "About"
     url: /about/
