@@ -1,4 +1,5 @@
 ---
+layout: splash
 author_profile: true
 title: "Walker Moskop - data analyst"
 header:
