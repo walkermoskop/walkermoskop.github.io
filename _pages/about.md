@@ -21,7 +21,7 @@ Bachelor of Arts, Psychology and Communication Theory
 Magna Cum Laude, 2009
 
 # Skills
-The vast majority of my work in recent years involves Python, R, SQL, Tableau, Power BI, QGIS and Excel. I've also used a variety of relational database managers, BI tools like SSIS, SSAS and DAX and have used JavaScript for data visualization (particularly for making maps). And while I have not written a line of it in a few years, my undergraduate CS coursework was all in C++. 
+The vast majority of my work in recent years involves Python, R, SQL, Tableau, Power BI, QGIS and Excel. I've also used a variety of relational database managers, BI tools like SSIS, SSAS and DAX, and have used JavaScript for data visualization (particularly for making maps). And while I have not written a line of it in a few years, my undergraduate CS coursework was all in C++. 
 
 # Experience
 
