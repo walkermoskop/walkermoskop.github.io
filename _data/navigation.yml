@@ -2,7 +2,7 @@ main:
   # - title: "Posts"
   #   url: /posts/
   - title: "Newer work"
-    url: /new-work/
+    url: /newer-work/
   - title: "Older work (data journalism)"
     url: /data-journalism/
   - title: "Skills and Experience"
