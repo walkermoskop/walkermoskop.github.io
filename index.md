@@ -1,11 +1,10 @@
 ---
-title: "Layout: Header Image Overlay"
+title: "Walker Moskop - data analyst"
 header:
-  overlay_image: /assets/images/site_banner.png
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_image: /assets/images/site-banner.png
   actions:
-    - label: "Learn more"
-      url: "https://unsplash.com"
+    - label: "Get in touch"
+      url: "https://walkermoskop.github.io/about/"
 categories:
   - Layout
   - Uncategorized
@@ -13,38 +12,6 @@ tags:
   - edge case
   - image
   - layout
-last_modified_at: 2018-03-20T16:00:52-04:00
 ---
 
-This post should display a **header with an overlay image**, if the theme supports it.
-
-Non-square images can provide some unique styling issues.
-
-This post tests overlay header images.
-
-
-```yaml
-excerpt: "This post should [...]"
-header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
-```
-
-Or if you want to do more fancy things, go full rgba:
-
-![transparent red overlay]({{ "/assets/images/mm-header-overlay-red-filter.jpg" | relative_url }})
-
-```yaml
-excerpt: "This post should [...]"
-header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  overlay_filter: rgba(255, 0, 0, 0.5)
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
-```
+I'm a Milwaukee-based data analyst who has spent the past 8 years working in data journalism, business intelligence and marketing analytics. In these roles, I've used a wide variety of tools (but mostly Python) to process, analyze and tell stories with data. Since May 2020, I've been enrolled full-time in a Master's in Data Science program through Indiana University. Check out the below pages to see some of my past work. Please <a href="https://walkermoskop.github.io/contact/">send an email</a> or a <a href="https://www.linkedin.com/in/walkermoskop/">LinkedIn message</a> if you'd like to get in touch. 
