@@ -4,7 +4,7 @@ title: "Skills and Experience"
 ---
 
 # Education
-<b>Indiana University - Bloomington, IN</b>
+<b>Indiana University - Bloomington, IN</b><br>
 Master of Science, Data Science
 May 2020 - August 2021 (anticipated)
 Taking coursework in statistics, linear modeling, machine learning, natural language processing, and fundamentals of AI.
