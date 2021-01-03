@@ -1,10 +1,10 @@
 ---
-author_profile: true
-title: "Walker Moskop - data analyst"
+title: "Layout: Header Image Overlay"
 header:
-  overlay_image: /assets/images/site-banner.jpg
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
-    - label: "Get in touch"
+    - label: "Learn more"
       url: "https://unsplash.com"
 categories:
   - Layout
@@ -13,6 +13,7 @@ tags:
   - edge case
   - image
   - layout
+last_modified_at: 2018-03-20T16:00:52-04:00
 ---
 
 This post should display a **header with an overlay image**, if the theme supports it.
@@ -20,10 +21,6 @@ This post should display a **header with an overlay image**, if the theme suppor
 Non-square images can provide some unique styling issues.
 
 This post tests overlay header images.
-
-## Overlay filter
-
-You can use it by specifying the opacity (between 0 and 1) of a black overlay like so:
 
 
 ```yaml
