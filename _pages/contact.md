@@ -7,7 +7,7 @@ author_profile: true
 
 Please fill out the form below if you'd like to get in touch.
 
-<form id="form1" name="form1" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate action="https://mademistakes.wufoo.com/forms/zr2w1zk1hbcjv0/#public">
+<form id="form1" name="form1" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate action="https://wmoskop.wufoo.com/forms/zzr4u2p09xh2hs/">
   <div>
     <label id="title7" for="Field7">Name
       <input id="Field7" name="Field7" type="text" spellcheck="false" maxlength="255" required placeholder="Your name">
