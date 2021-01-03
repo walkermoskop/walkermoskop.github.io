@@ -4,21 +4,20 @@ title: "Skills and Experience"
 ---
 
 # Education
-**Indiana University - Bloomington, IN**</br>
+**Indiana University - Bloomington, IN**
 Master of Science, Data Science  
 May 2020 - August 2021 (anticipated)  
 Taking coursework in statistics, linear modeling, machine learning, natural language processing, and fundamentals of AI.
 
-**Webster University, St. Louis, MO**
-Bachelor of Science, Computer Science
+**Webster University, St. Louis, MO**  
+Bachelor of Science, Computer Science  
 Summa Cum Laude, 2017
 
-**Univerity of Missouri - Columbia, MO**
-Master of Arts, Journalism
-2012
+**Univerity of Missouri - Columbia, MO**  
+Master of Arts, Journalism, 2012
 
-**Rockhurst University, Kansas City, MO**
-Bachelor of Arts, Psychology and Communication Theory
+**Rockhurst University, Kansas City, MO**  
+Bachelor of Arts, Psychology and Communication Theory  
 Magna Cum Laude, 2009
 
 # Skills
