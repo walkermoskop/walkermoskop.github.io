@@ -1,6 +1,8 @@
 ---
 permalink: /about/
 title: "Skills and Experience"
+author_profile: true
+layout: single
 ---
 
 # Education
