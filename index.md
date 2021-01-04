@@ -4,9 +4,9 @@ author_profile: true
 title: "Walker Moskop - data analyst"
 header:
   overlay_image: /assets/images/site-banner.png
-  actions:
+<!--   actions:
     - label: "Get in touch"
-      url: "https://walkermoskop.github.io/contact/"
+      url: "https: -->//walkermoskop.github.io/contact/"
 categories:
   - Layout
   - Uncategorized
