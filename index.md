@@ -18,5 +18,3 @@ I'm a Milwaukee-based data analyst who has spent the past 8 years working in dat
 ## [Newer posts/github projects](https://walkermoskop.github.io/newer-work/)
 
 ## [Stories/visualizations/apps from when I was a journo](https://walkermoskop.github.io/data-journalism/)
-
-As a data analyst and journalist, I've used data, code and traditional reporting methods to find and tell stories on everything from money in politics to economic development to real estate speculation. Click here to see some of my work.
