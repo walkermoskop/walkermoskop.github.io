@@ -17,4 +17,4 @@ I'm a Milwaukee-based data analyst who has spent the past 8 years working in dat
 
 ## [Newer posts/github projects](https://www.walkermoskop.com/newer-work/)
 
-## [Stories/visualizations/apps from when I was a journo](https://walkermoskop.github.io/data-journalism/)
+## [Stories/visualizations/apps from when I was a journo](https://www.walkermoskop.com/data-journalism/)
