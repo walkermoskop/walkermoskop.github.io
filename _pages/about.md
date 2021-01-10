@@ -54,3 +54,10 @@ The vast majority of my work in recent years involves Python, R, SQL, Tableau, P
  - Frequently collaborated with other reporters on stories and taught classes to train reporters to use Excel and other tools.
  - Designed and published interactive graphics using JavaScript, Tableau and DataWrapper.
  - Won numerous awards, including a company-wide award for digital innovation.
+
+## Business Reporter, The Tennessean
+**Nashville, TN. Sept 2012 - May 2013**
+- Primarily covered technology, startups, venture capital and entrepreneurship at Nasvhille's metro daily newspaper.
+- Frequently contributed to coverage of other issues on a small business team,
+including economic development, real estate and manufacturing.
+- Assisted other reporters with data analysis.
