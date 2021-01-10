@@ -9,6 +9,10 @@ author_profile: true
 
 For an NLP project, I used [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) to group 100,000 Amazon music reviews into a set of distinct topics. I also performed a sentiment analysis of the reviews, all of which were scored on a 1-5 scale (1-2 were assumed as negative, 4-5 were labeled as positive, and neutral 3-star reviews were removed). For the sentiment analysis, I experimented with using Naive Bayes, logistic regression and a support vector machine classifier.
 
+## [Visualizing nine years of Giannis Antetokounmpo's shot data](https://github.com/walkermoskop/Giannis-Antetokounmpo-Shooting-Analysis/blob/main/giannis-shooting-analysis.ipynb)
+
+Analyzing how Giannis' shot selection and shooting efficiency have changed as his career has progressed.
+
 ## [Finding an optimal route between cities](https://github.com/walkermoskop/Best-Route-Finder)
 
 For an [Elements of AI course](https://luddy.indiana.edu/academics/courses/class/iub-fall-2020-csci-b551#:~:text=CSCI%2DB%20551%20ELEMENTS%20OF%20ARTIFICIAL%20INTELLIGENCE%20(3%20CR.)&text=Principles%20of%20reactive%2C%20goal%2Dbased,%2C%20reasoning%20under%20uncertainty%2C%20planning.) I took in my data science program, I wrote a python script that uses [A* search](https://en.wikipedia.org/wiki/A*_search_algorithm) to find the most efficient route between destinations in a variety of scenarios.
