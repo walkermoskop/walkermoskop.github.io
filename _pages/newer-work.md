@@ -9,7 +9,7 @@ author_profile: true
 
 For an NLP project, I used [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) to group 100,000 Amazon music reviews into a set of distinct topics. I also performed a sentiment analysis of the reviews, all of which were scored on a 1-5 scale (1-2 were assumed as negative, 4-5 were labeled as positive, and neutral 3-star reviews were removed). For the sentiment analysis, I experimented with using Naive Bayes, logistic regression and a support vector machine classifier.
 
-## [Visualizing nine years of Giannis Antetokounmpo's shot data](https://github.com/walkermoskop/Giannis-Antetokounmpo-Shooting-Analysis/blob/main/giannis-shooting-analysis.ipynb)
+## [Visualizing eight years of Giannis Antetokounmpo's shot data](https://github.com/walkermoskop/Giannis-Antetokounmpo-Shooting-Analysis/blob/main/giannis-shooting-analysis.ipynb)
 
 I took raw data for all of Giannis' career shots and built a variety of shot charts looking at how his shot selection and shooting efficiency have changed as his career has progressed.
 
