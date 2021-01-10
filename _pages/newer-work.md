@@ -11,7 +11,7 @@ For an NLP project, I used [Latent Dirichlet Allocation](https://en.wikipedia.or
 
 ## [Visualizing nine years of Giannis Antetokounmpo's shot data](https://github.com/walkermoskop/Giannis-Antetokounmpo-Shooting-Analysis/blob/main/giannis-shooting-analysis.ipynb)
 
-Analyzing how Giannis' shot selection and shooting efficiency have changed as his career has progressed.
+I took raw data for all of Giannis' career shots and built a variety of shot charts looking at how his shot selection and shooting efficiency have changed as his career has progressed.
 
 ## [Finding an optimal route between cities](https://github.com/walkermoskop/Best-Route-Finder)
 
