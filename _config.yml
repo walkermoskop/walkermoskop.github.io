@@ -95,6 +95,8 @@ defaults:
       layout: splash
       author_profile: true
 
+# Google Analytics
+google_analytics: G-SNMJXS0DV2
 # category_archive:
 #   type: liquid
 #   path: /categories/
