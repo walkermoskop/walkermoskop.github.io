@@ -7,7 +7,11 @@ author_profile: true
 
 ## [A topic and sentiment analysis of Amazon music reviews](https://github.com/walkermoskop/Amazon-music-review-sentiment-and-topic-analysis)  
 
-For an NLP project, I used [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) to group 100,000 Amazon music reviews into a set of distinct topics. I also performed a sentiment analysis of the reviews, all of which were scored on a 1-5 scale (1-2 were assumed as negative, 4-5 were labeled as positive, and neutral 3-star reviews were removed). For the sentiment analysis, I experimented with using Naive Bayes, logistic regression and a support vector machine classifier.
+For an NLP project, I used [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) to group 100,000 Amazon music reviews into a set of distinct topics. I also performed a sentiment analysis of the reviews, all of which were scored on a 1-5 scale (1-2 were assumed as negative, 4-5 were labeled as positive, and neutral 3-star reviews were removed). For the sentiment analysis, I experimented with using a support vector machine classifier, Naive Bayes and regularized logistic regression.
+
+## [A county-level analysis of COVID fatality rates in Midwestern states](https://github.com/walkermoskop/covid-fatality-analysis)
+
+Using linear mixed effects models to evaluate the extent to which policy measures intended to slow COVID helped explain variation in fatality rates across Midwestern counties.
 
 ## [Visualizing eight years of Giannis Antetokounmpo's shot data](https://github.com/walkermoskop/Giannis-Antetokounmpo-Shooting-Analysis/blob/main/giannis-shooting-analysis.ipynb)
 
